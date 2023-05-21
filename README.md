@@ -11,3 +11,6 @@ Having updated the README on GitHub, simultaneously update it on Gitpod and try 
 ## Accept both changes after pulling
 
 Fix the conflict and then will add, commit and push again
+
+## Add Project Board and Issue
+Used to cause merge conflicts when you added issues to a project, let's see what happens
