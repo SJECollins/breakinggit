@@ -7,3 +7,7 @@ Make a silly mistake by updating the README in GitHub while simultaneously makin
 ## Update README in Gitpod
 
 Having updated the README on GitHub, simultaneously update it on Gitpod and try to push changes without pulling.
+
+## Accept both changes after pulling
+
+Fix the conflict and then will add, commit and push again
