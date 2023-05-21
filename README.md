@@ -14,6 +14,3 @@ Fix the conflict and then will add, commit and push again
 
 ## Add Project Board and Issue
 Used to cause merge conflicts when you added issues to a project, let's see what happens
-
-## Change README on temporary branch
-Let's mess it up
